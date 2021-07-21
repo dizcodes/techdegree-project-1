@@ -103,9 +103,7 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 .cars {
-  border-color: #black;
-  width: 200px
-  height: 300px
+  margin: 40px;
 }
 
 ul.skills {
