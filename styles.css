@@ -96,6 +96,7 @@ header .profile-image:hover {
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
+  border-color: blue;
   transition: all .5s;
 }
 .card:hover {
@@ -154,8 +155,7 @@ a.social {
 a.twitter {
   background-image: url(images/twitter.svg);
 }
-a.linkedin {
-  background-image: url(images/linkedin.svg);
+
 }
 a.github {
   background-image: url(images/github.svg);
